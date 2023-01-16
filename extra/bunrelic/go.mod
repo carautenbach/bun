@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/extra/bunrelic
+module github.com/carautenbach/bun/extra/bunrelic
 
 go 1.18
 

@@ -16,8 +16,8 @@ import (
 	"go.opentelemetry.io/otel/trace"
 
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect"
-	"github.com/uptrace/bun/schema"
+	"github.com/carautenbach/bun/dialect"
+	"github.com/carautenbach/bun/schema"
 	"github.com/uptrace/opentelemetry-go-extra/otelsql"
 )
 

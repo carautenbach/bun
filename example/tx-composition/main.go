@@ -5,9 +5,9 @@ import (
 	"database/sql"
 
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect/sqlitedialect"
-	"github.com/uptrace/bun/driver/sqliteshim"
-	"github.com/uptrace/bun/extra/bundebug"
+	"github.com/carautenbach/bun/dialect/sqlitedialect"
+	"github.com/carautenbach/bun/driver/sqliteshim"
+	"github.com/carautenbach/bun/extra/bundebug"
 )
 
 func main() {

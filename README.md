@@ -1,6 +1,6 @@
 # SQL-first Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite
 
-[![build workflow](https://github.com/uptrace/bun/actions/workflows/build.yml/badge.svg)](https://github.com/uptrace/bun/actions)
+[![build workflow](https://github.com/carautenbach/bun/actions/workflows/build.yml/badge.svg)](https://github.com/carautenbach/bun/actions)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/uptrace/bun)](https://pkg.go.dev/github.com/uptrace/bun)
 [![Documentation](https://img.shields.io/badge/bun-documentation-informational)](https://bun.uptrace.dev/)
 [![Chat](https://discordapp.com/api/guilds/752070105847955518/widget.png)](https://discord.gg/rWtp5Aj)
@@ -31,8 +31,8 @@
 ### Resources
 
 - [**Get started**](https://bun.uptrace.dev/guide/golang-orm.html)
-- [Examples](https://github.com/uptrace/bun/tree/master/example)
-- [Discussions](https://github.com/uptrace/bun/discussions)
+- [Examples](https://github.com/carautenbach/bun/tree/master/example)
+- [Discussions](https://github.com/carautenbach/bun/discussions)
 - [Chat](https://discord.gg/rWtp5Aj)
 - [Reference](https://pkg.go.dev/github.com/uptrace/bun)
 - [Starter kit](https://github.com/go-bun/bun-starter-kit)
@@ -58,7 +58,7 @@ Wrote a tutorial for Bun? Create a PR to add here and on [Bun](https://bun.uptra
 - [penguin-statistics](https://github.com/penguin-statistics/backend-next) - Penguin Statistics v3
   Backend.
 - And
-  [hundreds more](https://github.com/uptrace/bun/network/dependents?package_id=UGFja2FnZS0yMjkxOTc4OTA4).
+  [hundreds more](https://github.com/carautenbach/bun/network/dependents?package_id=UGFja2FnZS0yMjkxOTc4OTA4).
 
 ## Why another database client?
 
@@ -139,6 +139,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for some hints.
 
 And thanks to all the people who already contributed!
 
-<a href="https://github.com/uptrace/bun/graphs/contributors">
+<a href="https://github.com/carautenbach/bun/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=uptrace/bun" />
 </a>

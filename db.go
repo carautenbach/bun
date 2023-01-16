@@ -10,9 +10,9 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/uptrace/bun/dialect/feature"
-	"github.com/uptrace/bun/internal"
-	"github.com/uptrace/bun/schema"
+	"github.com/carautenbach/bun/dialect/feature"
+	"github.com/carautenbach/bun/internal"
+	"github.com/carautenbach/bun/schema"
 )
 
 const (

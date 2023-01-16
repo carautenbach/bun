@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dialect/mysqldialect
+module github.com/carautenbach/bun/dialect/mysqldialect
 
 go 1.18
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/uptrace/bun/schema"
+	"github.com/carautenbach/bun/schema"
 )
 
 type structTableModel struct {

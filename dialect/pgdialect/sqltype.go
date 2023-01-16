@@ -5,8 +5,8 @@ import (
 	"net"
 	"reflect"
 
-	"github.com/uptrace/bun/dialect/sqltype"
-	"github.com/uptrace/bun/schema"
+	"github.com/carautenbach/bun/dialect/sqltype"
+	"github.com/carautenbach/bun/schema"
 )
 
 const (

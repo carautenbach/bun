@@ -7,10 +7,10 @@ import (
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dbfixture"
-	"github.com/uptrace/bun/dialect/sqlitedialect"
-	"github.com/uptrace/bun/driver/sqliteshim"
-	"github.com/uptrace/bun/extra/bundebug"
+	"github.com/carautenbach/bun/dbfixture"
+	"github.com/carautenbach/bun/dialect/sqlitedialect"
+	"github.com/carautenbach/bun/driver/sqliteshim"
+	"github.com/carautenbach/bun/extra/bundebug"
 )
 
 type Comment struct {

@@ -15,8 +15,8 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/uptrace/bun"
-	"github.com/uptrace/bun/dialect/pgdialect"
-	"github.com/uptrace/bun/driver/pgdriver"
+	"github.com/carautenbach/bun/dialect/pgdialect"
+	"github.com/carautenbach/bun/driver/pgdriver"
 )
 
 func TestPostgresArray(t *testing.T) {

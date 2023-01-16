@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/extra/bunbig
+module github.com/carautenbach/bun/extra/bunbig
 
 go 1.18
 

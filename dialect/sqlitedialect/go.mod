@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dialect/sqlitedialect
+module github.com/carautenbach/bun/dialect/sqlitedialect
 
 go 1.18
 

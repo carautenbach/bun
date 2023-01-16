@@ -1,19 +1,19 @@
-module github.com/uptrace/bun/example/string-representation
+module github.com/carautenbach/bun/example/string-representation
 
 go 1.18
 
 replace github.com/uptrace/bun => ../..
 
-replace github.com/uptrace/bun/extra/bundebug => ../../extra/bundebug
+replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 
-replace github.com/uptrace/bun/dialect/sqlitedialect => ../../dialect/sqlitedialect
+replace github.com/carautenbach/bun/dialect/sqlitedialect => ../../dialect/sqlitedialect
 
-replace github.com/uptrace/bun/driver/sqliteshim => ../../driver/sqliteshim
+replace github.com/carautenbach/bun/driver/sqliteshim => ../../driver/sqliteshim
 
 require (
 	github.com/uptrace/bun v1.1.10
-	github.com/uptrace/bun/dialect/sqlitedialect v1.1.10
-	github.com/uptrace/bun/driver/sqliteshim v1.1.10
+	github.com/carautenbach/bun/dialect/sqlitedialect v1.1.10
+	github.com/carautenbach/bun/driver/sqliteshim v1.1.10
 )
 
 require (

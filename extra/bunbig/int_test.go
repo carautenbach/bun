@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/uptrace/bun/extra/bunbig"
+	"github.com/carautenbach/bun/extra/bunbig"
 	"gopkg.in/yaml.v3"
 )
 

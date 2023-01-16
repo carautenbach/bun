@@ -1,24 +1,24 @@
-module github.com/uptrace/bun/example/pg-faceted-search
+module github.com/carautenbach/bun/example/pg-faceted-search
 
 go 1.18
 
 replace github.com/uptrace/bun => ../..
 
-replace github.com/uptrace/bun/dbfixture => ../../dbfixture
+replace github.com/carautenbach/bun/dbfixture => ../../dbfixture
 
-replace github.com/uptrace/bun/extra/bundebug => ../../extra/bundebug
+replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 
-replace github.com/uptrace/bun/driver/pgdriver => ../../driver/pgdriver
+replace github.com/carautenbach/bun/driver/pgdriver => ../../driver/pgdriver
 
-replace github.com/uptrace/bun/dialect/pgdialect => ../../dialect/pgdialect
+replace github.com/carautenbach/bun/dialect/pgdialect => ../../dialect/pgdialect
 
 require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/uptrace/bun v1.1.10
-	github.com/uptrace/bun/dbfixture v1.1.10
-	github.com/uptrace/bun/dialect/pgdialect v1.1.10
-	github.com/uptrace/bun/driver/pgdriver v1.1.10
-	github.com/uptrace/bun/extra/bundebug v1.1.10
+	github.com/carautenbach/bun/dbfixture v1.1.10
+	github.com/carautenbach/bun/dialect/pgdialect v1.1.10
+	github.com/carautenbach/bun/driver/pgdriver v1.1.10
+	github.com/carautenbach/bun/extra/bundebug v1.1.10
 )
 
 require (

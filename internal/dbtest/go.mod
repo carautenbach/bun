@@ -1,24 +1,24 @@
-module github.com/uptrace/bun/internal/dbtest
+module github.com/carautenbach/bun/internal/dbtest
 
 go 1.18
 
 replace github.com/uptrace/bun => ../..
 
-replace github.com/uptrace/bun/dbfixture => ../../dbfixture
+replace github.com/carautenbach/bun/dbfixture => ../../dbfixture
 
-replace github.com/uptrace/bun/dialect/pgdialect => ../../dialect/pgdialect
+replace github.com/carautenbach/bun/dialect/pgdialect => ../../dialect/pgdialect
 
-replace github.com/uptrace/bun/driver/pgdriver => ../../driver/pgdriver
+replace github.com/carautenbach/bun/driver/pgdriver => ../../driver/pgdriver
 
-replace github.com/uptrace/bun/driver/sqliteshim => ../../driver/sqliteshim
+replace github.com/carautenbach/bun/driver/sqliteshim => ../../driver/sqliteshim
 
-replace github.com/uptrace/bun/dialect/mysqldialect => ../../dialect/mysqldialect
+replace github.com/carautenbach/bun/dialect/mysqldialect => ../../dialect/mysqldialect
 
-replace github.com/uptrace/bun/dialect/sqlitedialect => ../../dialect/sqlitedialect
+replace github.com/carautenbach/bun/dialect/sqlitedialect => ../../dialect/sqlitedialect
 
-replace github.com/uptrace/bun/dialect/mssqldialect => ../../dialect/mssqldialect
+replace github.com/carautenbach/bun/dialect/mssqldialect => ../../dialect/mssqldialect
 
-replace github.com/uptrace/bun/extra/bundebug => ../../extra/bundebug
+replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 
 require (
 	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
@@ -29,14 +29,14 @@ require (
 	github.com/jackc/pgx/v4 v4.11.0
 	github.com/stretchr/testify v1.8.1
 	github.com/uptrace/bun v1.1.10
-	github.com/uptrace/bun/dbfixture v1.1.10
-	github.com/uptrace/bun/dialect/mssqldialect v1.1.10
-	github.com/uptrace/bun/dialect/mysqldialect v1.1.10
-	github.com/uptrace/bun/dialect/pgdialect v1.1.10
-	github.com/uptrace/bun/dialect/sqlitedialect v1.1.10
-	github.com/uptrace/bun/driver/pgdriver v1.1.10
-	github.com/uptrace/bun/driver/sqliteshim v1.1.10
-	github.com/uptrace/bun/extra/bundebug v1.1.10
+	github.com/carautenbach/bun/dbfixture v1.1.10
+	github.com/carautenbach/bun/dialect/mssqldialect v1.1.10
+	github.com/carautenbach/bun/dialect/mysqldialect v1.1.10
+	github.com/carautenbach/bun/dialect/pgdialect v1.1.10
+	github.com/carautenbach/bun/dialect/sqlitedialect v1.1.10
+	github.com/carautenbach/bun/driver/pgdriver v1.1.10
+	github.com/carautenbach/bun/driver/sqliteshim v1.1.10
+	github.com/carautenbach/bun/extra/bundebug v1.1.10
 )
 
 require (

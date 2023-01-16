@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strconv"
 
-	"github.com/uptrace/bun/internal"
+	"github.com/carautenbach/bun/internal"
 )
 
 type Parser struct {

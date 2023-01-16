@@ -3,7 +3,7 @@ package sqlitedialect
 import (
 	"reflect"
 
-	"github.com/uptrace/bun/schema"
+	"github.com/carautenbach/bun/schema"
 )
 
 func scanner(typ reflect.Type) schema.ScannerFunc {

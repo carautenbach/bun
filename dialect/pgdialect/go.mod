@@ -1,4 +1,4 @@
-module github.com/uptrace/bun/dialect/pgdialect
+module github.com/carautenbach/bun/dialect/pgdialect
 
 go 1.18
 
