@@ -5,7 +5,7 @@ import (
 
 	"github.com/newrelic/go-agent/v3/newrelic"
 	"github.com/newrelic/go-agent/v3/newrelic/sqlparse"
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 )
 
 type QueryHook struct {

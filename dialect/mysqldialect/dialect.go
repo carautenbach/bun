@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/mod/semver"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/dialect"
 	"github.com/carautenbach/bun/dialect/feature"
 	"github.com/carautenbach/bun/dialect/sqltype"

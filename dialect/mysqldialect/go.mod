@@ -2,10 +2,10 @@ module github.com/carautenbach/bun/dialect/mysqldialect
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 require (
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	golang.org/x/mod v0.7.0
 )
 

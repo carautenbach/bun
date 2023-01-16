@@ -2,7 +2,7 @@ module github.com/carautenbach/bun/example/pg-listen
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 
@@ -11,7 +11,7 @@ replace github.com/carautenbach/bun/driver/pgdriver => ../../driver/pgdriver
 replace github.com/carautenbach/bun/dialect/pgdialect => ../../dialect/pgdialect
 
 require (
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	github.com/carautenbach/bun/dialect/pgdialect v1.1.10
 	github.com/carautenbach/bun/driver/pgdriver v1.1.10
 	github.com/carautenbach/bun/extra/bundebug v1.1.10

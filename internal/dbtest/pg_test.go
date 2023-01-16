@@ -14,7 +14,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/dialect/pgdialect"
 	"github.com/carautenbach/bun/driver/pgdriver"
 )

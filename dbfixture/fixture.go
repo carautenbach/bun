@@ -16,7 +16,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/schema"
 )
 

@@ -2,7 +2,7 @@ module github.com/carautenbach/bun/example/trivial
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 
@@ -21,7 +21,7 @@ replace github.com/carautenbach/bun/dialect/mssqldialect => ../../dialect/mssqld
 require (
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/go-sql-driver/mysql v1.7.0
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	github.com/carautenbach/bun/dialect/mssqldialect v1.1.10
 	github.com/carautenbach/bun/dialect/mysqldialect v1.1.10
 	github.com/carautenbach/bun/dialect/pgdialect v1.1.10

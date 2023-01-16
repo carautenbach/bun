@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/dialect"
 	"github.com/carautenbach/bun/dialect/feature"
 	"github.com/carautenbach/bun/dialect/sqltype"

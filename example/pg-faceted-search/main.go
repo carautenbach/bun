@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/dbfixture"
 	"github.com/carautenbach/bun/dialect/pgdialect"
 	"github.com/carautenbach/bun/driver/pgdriver"

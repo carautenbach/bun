@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/brianvoe/gofakeit/v5"
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/dialect/pgdialect"
 	"github.com/carautenbach/bun/driver/pgdriver"
 	"github.com/carautenbach/bun/extra/bunotel"

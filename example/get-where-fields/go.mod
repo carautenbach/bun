@@ -2,7 +2,7 @@ module github.com/carautenbach/bun/example/get-where-fields
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 replace github.com/carautenbach/bun/dbfixture => ../../dbfixture
 
@@ -13,7 +13,7 @@ replace github.com/carautenbach/bun/dialect/sqlitedialect => ../../dialect/sqlit
 replace github.com/carautenbach/bun/driver/sqliteshim => ../../driver/sqliteshim
 
 require (
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	github.com/carautenbach/bun/dialect/sqlitedialect v1.1.10
 	github.com/carautenbach/bun/driver/sqliteshim v1.1.10
 )

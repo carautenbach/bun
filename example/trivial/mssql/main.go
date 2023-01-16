@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	_ "github.com/denisenkom/go-mssqldb"
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/dialect/mssqldialect"
 	"github.com/carautenbach/bun/extra/bundebug"
 )

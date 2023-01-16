@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/dialect/sqlitedialect"
 	"github.com/carautenbach/bun/driver/sqliteshim"
 	"github.com/carautenbach/bun/extra/bundebug"

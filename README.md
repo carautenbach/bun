@@ -1,7 +1,7 @@
 # SQL-first Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite
 
 [![build workflow](https://github.com/carautenbach/bun/actions/workflows/build.yml/badge.svg)](https://github.com/carautenbach/bun/actions)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/uptrace/bun)](https://pkg.go.dev/github.com/uptrace/bun)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/carautenbach/bun)](https://pkg.go.dev/github.com/carautenbach/bun)
 [![Documentation](https://img.shields.io/badge/bun-documentation-informational)](https://bun.uptrace.dev/)
 [![Chat](https://discordapp.com/api/guilds/752070105847955518/widget.png)](https://discord.gg/rWtp5Aj)
 
@@ -34,7 +34,7 @@
 - [Examples](https://github.com/carautenbach/bun/tree/master/example)
 - [Discussions](https://github.com/carautenbach/bun/discussions)
 - [Chat](https://discord.gg/rWtp5Aj)
-- [Reference](https://pkg.go.dev/github.com/uptrace/bun)
+- [Reference](https://pkg.go.dev/github.com/carautenbach/bun)
 - [Starter kit](https://github.com/go-bun/bun-starter-kit)
 
 ### Tutorials
@@ -129,7 +129,7 @@ See [**Getting started**](https://bun.uptrace.dev/guide/golang-orm.html) guide a
 
 ## See also
 
-- [Golang HTTP router](https://github.com/uptrace/bunrouter)
+- [Golang HTTP router](https://github.com/carautenbach/bunrouter)
 - [Golang ClickHouse ORM](https://github.com/uptrace/go-clickhouse)
 - [Golang msgpack](https://github.com/vmihailenco/msgpack)
 

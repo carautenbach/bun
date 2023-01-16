@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/rs/zerolog"
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 )
 
 var _ bun.QueryHook = (*QueryHook)(nil)

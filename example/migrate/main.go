@@ -15,7 +15,7 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 )
 
 func main() {

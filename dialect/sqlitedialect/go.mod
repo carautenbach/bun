@@ -2,9 +2,9 @@ module github.com/carautenbach/bun/dialect/sqlitedialect
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
-require github.com/uptrace/bun v1.1.10
+require github.com/carautenbach/bun v1.1.10
 
 require (
 	github.com/jinzhu/inflection v1.0.0 // indirect

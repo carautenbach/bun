@@ -2,7 +2,7 @@ module github.com/carautenbach/bun/example/fixture
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 
@@ -13,7 +13,7 @@ replace github.com/carautenbach/bun/driver/sqliteshim => ../../driver/sqliteshim
 replace github.com/carautenbach/bun/dbfixture => ../../dbfixture
 
 require (
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	github.com/carautenbach/bun/dbfixture v1.1.10
 	github.com/carautenbach/bun/dialect/sqlitedialect v1.1.10
 	github.com/carautenbach/bun/driver/sqliteshim v1.1.10

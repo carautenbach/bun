@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 )
 
 type MigratorOption func(m *Migrator)

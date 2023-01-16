@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 )
 
 const pingChannel = "bun:ping"

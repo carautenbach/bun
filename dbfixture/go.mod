@@ -2,10 +2,10 @@ module github.com/carautenbach/bun/dbfixture
 
 go 1.18
 
-replace github.com/uptrace/bun => ../
+replace github.com/carautenbach/bun => ../
 
 require (
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	gopkg.in/yaml.v3 v3.0.1
 )
 

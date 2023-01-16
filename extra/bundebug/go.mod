@@ -2,11 +2,11 @@ module github.com/carautenbach/bun/extra/bundebug
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 require (
 	github.com/fatih/color v1.13.0
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 )
 
 require (

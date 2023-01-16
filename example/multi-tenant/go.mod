@@ -2,7 +2,7 @@ module github.com/carautenbach/bun/example/multi-tenant
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 replace github.com/carautenbach/bun/dbfixture => ../../dbfixture
 
@@ -14,7 +14,7 @@ replace github.com/carautenbach/bun/driver/sqliteshim => ../../driver/sqliteshim
 
 require (
 	github.com/davecgh/go-spew v1.1.1
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	github.com/carautenbach/bun/dbfixture v1.1.10
 	github.com/carautenbach/bun/dialect/sqlitedialect v1.1.10
 	github.com/carautenbach/bun/driver/sqliteshim v1.1.10

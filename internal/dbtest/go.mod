@@ -2,7 +2,7 @@ module github.com/carautenbach/bun/internal/dbtest
 
 go 1.18
 
-replace github.com/uptrace/bun => ../..
+replace github.com/carautenbach/bun => ../..
 
 replace github.com/carautenbach/bun/dbfixture => ../../dbfixture
 
@@ -28,7 +28,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/jackc/pgx/v4 v4.11.0
 	github.com/stretchr/testify v1.8.1
-	github.com/uptrace/bun v1.1.10
+	github.com/carautenbach/bun v1.1.10
 	github.com/carautenbach/bun/dbfixture v1.1.10
 	github.com/carautenbach/bun/dialect/mssqldialect v1.1.10
 	github.com/carautenbach/bun/dialect/mysqldialect v1.1.10

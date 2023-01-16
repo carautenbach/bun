@@ -10,7 +10,7 @@ import (
 
 	"github.com/bradleyjkemp/cupaloy"
 
-	"github.com/uptrace/bun"
+	"github.com/carautenbach/bun"
 	"github.com/carautenbach/bun/schema"
 )
 
