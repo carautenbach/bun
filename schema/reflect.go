@@ -36,14 +36,12 @@ func fieldByIndex(v reflect.Value, index []int) (_ reflect.Value, ok bool) {
 		return v.Field(index[0]), true
 	}
 
-	for i, idx := range index {
-		if i > 0 {
-			if v.Kind() == reflect.Ptr {
-				if v.IsNil() {
-					return v, false
-				}
-				v = v.Elem()
+	for _, idx := range index {
+		if v.Kind() == reflect.Ptr {
+			if v.IsNil() {
+				return v, false
 			}
+			v = v.Elem()
 		}
 		if !v.IsValid() {
 			return v, false
