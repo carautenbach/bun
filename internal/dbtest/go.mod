@@ -23,11 +23,6 @@ replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 require (
 	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
 	github.com/brianvoe/gofakeit/v6 v6.4.1
-	github.com/denisenkom/go-mssqldb v0.12.2
-	github.com/go-sql-driver/mysql v1.6.0
-	github.com/google/uuid v1.3.0
-	github.com/jackc/pgx/v4 v4.11.0
-	github.com/stretchr/testify v1.8.1
 	github.com/carautenbach/bun v1.1.10
 	github.com/carautenbach/bun/dbfixture v1.1.10
 	github.com/carautenbach/bun/dialect/mssqldialect v1.1.10
@@ -37,6 +32,11 @@ require (
 	github.com/carautenbach/bun/driver/pgdriver v1.1.10
 	github.com/carautenbach/bun/driver/sqliteshim v1.1.10
 	github.com/carautenbach/bun/extra/bundebug v1.1.10
+	github.com/denisenkom/go-mssqldb v0.12.2
+	github.com/go-sql-driver/mysql v1.6.0
+	github.com/google/uuid v1.3.0
+	github.com/jackc/pgx/v4 v4.11.0
+	github.com/stretchr/testify v1.8.1
 )
 
 require (

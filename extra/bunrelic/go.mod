@@ -5,8 +5,8 @@ go 1.18
 replace github.com/carautenbach/bun => ../..
 
 require (
-	github.com/newrelic/go-agent/v3 v3.20.2
 	github.com/carautenbach/bun v1.1.10
+	github.com/newrelic/go-agent/v3 v3.20.2
 )
 
 require (
