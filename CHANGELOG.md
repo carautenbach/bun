@@ -1,4 +1,4 @@
-## [1.1.10](https://github.com/carautenbach/bun/compare/v1.1.9...v1.1.10) (2023-01-16)
+## [1.1.10](https://github.com/carautenbach/bun/compare/v1.1.9...v1.0.6) (2023-01-16)
 
 ### Bug Fixes
 
