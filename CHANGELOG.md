@@ -1,4 +1,4 @@
-## [v1.0.7](https://github.com/carautenbach/bun/compare/v1.1.9...v1.0.7) (2023-01-16)
+## [v1.0.9](https://github.com/carautenbach/bun/compare/v1.1.9...v1.0.9) (2023-01-16)
 
 ### Bug Fixes
 
@@ -543,7 +543,7 @@ In v1.1.x, such options as `,nopk` and `,allowzero` will not be necessary and wi
 - **pgdriver:** allow specifying timeout in DSN
   ([7dbc71b](https://github.com/carautenbach/bun/commit/7dbc71b3494caddc2e97d113f00067071b9e19da))
 
-## [1.0.8](https://github.com/carautenbach/bun/compare/v1.0.7...v1.0.8) (2021-09-18)
+## [1.0.8](https://github.com/carautenbach/bun/compare/v1.0.9...v1.0.8) (2021-09-18)
 
 ### Bug Fixes
 
@@ -556,7 +556,7 @@ In v1.1.x, such options as `,nopk` and `,allowzero` will not be necessary and wi
 - support soft deletes on nil model
   ([0556e3c](https://github.com/carautenbach/bun/commit/0556e3c63692a7f4e48659d52b55ffd9cca0202a))
 
-## [1.0.7](https://github.com/carautenbach/bun/compare/v1.0.7...v1.0.7) (2021-09-15)
+## [1.0.7](https://github.com/carautenbach/bun/compare/v1.0.9...v1.0.9) (2021-09-15)
 
 ### Bug Fixes
 
@@ -572,7 +572,7 @@ In v1.1.x, such options as `,nopk` and `,allowzero` will not be necessary and wi
 - add SelectQuery.Exists helper
   ([c3e59c1](https://github.com/carautenbach/bun/commit/c3e59c1bc58b43c4b8e33e7d170ad33a08fbc3c7))
 
-## [1.0.6](https://github.com/carautenbach/bun/compare/v1.0.5...v1.0.7) (2021-09-11)
+## [1.0.6](https://github.com/carautenbach/bun/compare/v1.0.5...v1.0.9) (2021-09-11)
 
 ### Bug Fixes
 

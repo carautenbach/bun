@@ -5,7 +5,7 @@ go 1.18
 replace github.com/carautenbach/bun => ../..
 
 require (
-	github.com/carautenbach/bun v1.0.7
+	github.com/carautenbach/bun v1.0.9
 	github.com/uptrace/opentelemetry-go-extra/otelsql v0.1.18
 	go.opentelemetry.io/otel v1.11.2
 	go.opentelemetry.io/otel/metric v0.34.0

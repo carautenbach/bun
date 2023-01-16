@@ -4,7 +4,7 @@ go 1.18
 
 replace github.com/carautenbach/bun => ../..
 
-require github.com/carautenbach/bun v1.0.7
+require github.com/carautenbach/bun v1.0.9
 
 require (
 	github.com/jinzhu/inflection v1.0.0 // indirect

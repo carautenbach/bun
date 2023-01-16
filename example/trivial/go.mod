@@ -19,14 +19,14 @@ replace github.com/carautenbach/bun/dialect/mysqldialect => ../../dialect/mysqld
 replace github.com/carautenbach/bun/dialect/mssqldialect => ../../dialect/mssqldialect
 
 require (
-	github.com/carautenbach/bun vv1.0.7
-	github.com/carautenbach/bun/dialect/mssqldialect vv1.0.7
-	github.com/carautenbach/bun/dialect/mysqldialect vv1.0.7
-	github.com/carautenbach/bun/dialect/pgdialect vv1.0.7
-	github.com/carautenbach/bun/dialect/sqlitedialect vv1.0.7
-	github.com/carautenbach/bun/driver/pgdriver vv1.0.7
-	github.com/carautenbach/bun/driver/sqliteshim vv1.0.7
-	github.com/carautenbach/bun/extra/bundebug vv1.0.7
+	github.com/carautenbach/bun v1.0.9
+	github.com/carautenbach/bun/dialect/mssqldialect v1.0.9
+	github.com/carautenbach/bun/dialect/mysqldialect v1.0.9
+	github.com/carautenbach/bun/dialect/pgdialect v1.0.9
+	github.com/carautenbach/bun/dialect/sqlitedialect v1.0.9
+	github.com/carautenbach/bun/driver/pgdriver v1.0.9
+	github.com/carautenbach/bun/driver/sqliteshim v1.0.9
+	github.com/carautenbach/bun/extra/bundebug v1.0.9
 	github.com/denisenkom/go-mssqldb v0.12.3
 	github.com/go-sql-driver/mysql v1.7.0
 )

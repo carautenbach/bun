@@ -23,15 +23,15 @@ replace github.com/carautenbach/bun/extra/bundebug => ../../extra/bundebug
 require (
 	github.com/bradleyjkemp/cupaloy v2.3.0+incompatible
 	github.com/brianvoe/gofakeit/v6 v6.4.1
-	github.com/carautenbach/bun v1.0.7
-	github.com/carautenbach/bun/dbfixture v1.0.7
-	github.com/carautenbach/bun/dialect/mssqldialect v1.0.7
-	github.com/carautenbach/bun/dialect/mysqldialect v1.0.7
-	github.com/carautenbach/bun/dialect/pgdialect v1.0.7
-	github.com/carautenbach/bun/dialect/sqlitedialect v1.0.7
-	github.com/carautenbach/bun/driver/pgdriver v1.0.7
-	github.com/carautenbach/bun/driver/sqliteshim v1.0.7
-	github.com/carautenbach/bun/extra/bundebug v1.0.7
+	github.com/carautenbach/bun v1.0.9
+	github.com/carautenbach/bun/dbfixture v1.0.9
+	github.com/carautenbach/bun/dialect/mssqldialect v1.0.9
+	github.com/carautenbach/bun/dialect/mysqldialect v1.0.9
+	github.com/carautenbach/bun/dialect/pgdialect v1.0.9
+	github.com/carautenbach/bun/dialect/sqlitedialect v1.0.9
+	github.com/carautenbach/bun/driver/pgdriver v1.0.9
+	github.com/carautenbach/bun/driver/sqliteshim v1.0.9
+	github.com/carautenbach/bun/extra/bundebug v1.0.9
 	github.com/denisenkom/go-mssqldb v0.12.2
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/google/uuid v1.3.0
