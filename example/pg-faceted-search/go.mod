@@ -13,11 +13,11 @@ replace github.com/carautenbach/bun/driver/pgdriver => ../../driver/pgdriver
 replace github.com/carautenbach/bun/dialect/pgdialect => ../../dialect/pgdialect
 
 require (
-	github.com/carautenbach/bun v1.1.10
-	github.com/carautenbach/bun/dbfixture v1.1.10
-	github.com/carautenbach/bun/dialect/pgdialect v1.1.10
-	github.com/carautenbach/bun/driver/pgdriver v1.1.10
-	github.com/carautenbach/bun/extra/bundebug v1.1.10
+	github.com/carautenbach/bun vv1.0.7
+	github.com/carautenbach/bun/dbfixture vv1.0.7
+	github.com/carautenbach/bun/dialect/pgdialect vv1.0.7
+	github.com/carautenbach/bun/driver/pgdriver vv1.0.7
+	github.com/carautenbach/bun/extra/bundebug vv1.0.7
 	github.com/davecgh/go-spew v1.1.1
 )
 

@@ -5,7 +5,7 @@ go 1.18
 replace github.com/carautenbach/bun => ../..
 
 require (
-	github.com/carautenbach/bun v1.0.6
+	github.com/carautenbach/bun v1.0.7
 	github.com/stretchr/testify v1.8.1
 	mellium.im/sasl v0.3.1
 )

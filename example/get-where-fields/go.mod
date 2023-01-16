@@ -13,9 +13,9 @@ replace github.com/carautenbach/bun/dialect/sqlitedialect => ../../dialect/sqlit
 replace github.com/carautenbach/bun/driver/sqliteshim => ../../driver/sqliteshim
 
 require (
-	github.com/carautenbach/bun v1.1.10
-	github.com/carautenbach/bun/dialect/sqlitedialect v1.1.10
-	github.com/carautenbach/bun/driver/sqliteshim v1.1.10
+	github.com/carautenbach/bun vv1.0.7
+	github.com/carautenbach/bun/dialect/sqlitedialect vv1.0.7
+	github.com/carautenbach/bun/driver/sqliteshim vv1.0.7
 )
 
 require (

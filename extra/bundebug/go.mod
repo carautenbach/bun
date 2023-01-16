@@ -5,7 +5,7 @@ go 1.18
 replace github.com/carautenbach/bun => ../..
 
 require (
-	github.com/carautenbach/bun v1.0.6
+	github.com/carautenbach/bun v1.0.7
 	github.com/fatih/color v1.13.0
 )
 
